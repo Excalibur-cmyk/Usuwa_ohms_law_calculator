@@ -36,4 +36,4 @@ The program saves every calculation in a history list and prints a summary of al
 - How to stop a divide-by-zero error by checking the value before dividing.
 
 ## Author
-Your Full Name, ND1 Mechatronics Engineering, YabaTech.
+USUWA FAVOUR, ND1 Mechatronics Engineering, YabaTech.
